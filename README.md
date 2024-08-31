@@ -1,2 +1,2 @@
 # functional-calculator
-This is a functional calculator project usuing HTML,CSS annd JavaScript.
+This is a functional calculator project using HTML,CSS annd JavaScript.
